@@ -1,0 +1,10 @@
+if(isInventory){
+	draw_set_color(c_purple);
+	draw_rectangle(x,y,x+32,y+32,0);
+	draw_set_color(c_black);
+	draw_rectangle(x,y,x+32,y+32,1);
+}else{
+	 draw_set_color(c_yellow);
+	 draw_circle(x+16,y+16,200,1);
+}
+draw_self();	

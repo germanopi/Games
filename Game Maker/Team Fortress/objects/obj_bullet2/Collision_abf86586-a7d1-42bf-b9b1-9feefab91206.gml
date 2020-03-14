@@ -1,0 +1,1 @@
+src_destroyBullet(); // Se colidiu se destroi
