@@ -1,0 +1,27 @@
+﻿using System.Collections;
+using System.Collections.Generic;
+using UnityEngine;
+
+public class ColisãoCuboColidindo : MonoBehaviour
+{
+    // Start is called before the first frame update
+    void Start()
+    {
+        
+    }
+
+    // Update is called once per frame
+    void Update()
+    {
+        
+    }
+    
+    void OnCollisionEnter(Collision collisionInfo){     
+      Debug.Log("Colisão ocorreu agora!");
+      GameObject obj = collisionInfo.gameObject;
+      if(obj.tag=="Cubo removido"){
+        Destroy(obj);
+      }
+
+    }
+}
