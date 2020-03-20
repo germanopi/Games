@@ -1,0 +1,12 @@
+if(dir==1){
+	image_angle++;
+	if(image_angle>=360){
+		dir=0;
+	}
+}
+if(dir==0){
+	image_angle--;
+	if(image_angle<=180){
+		dir=1;
+	}
+}

@@ -1,0 +1,9 @@
+if(keyboard_check(vk_space)){
+	velocidadeVertical+=gravidade;
+	velocidadeVertical=-12;
+	y-=12;
+	jump=false;
+}else{
+	x=obj_rope.x+lengthdir_x(256,obj_rope.image_angle);
+	y=obj_rope.y+lengthdir_y(256,obj_rope.image_angle);
+}
