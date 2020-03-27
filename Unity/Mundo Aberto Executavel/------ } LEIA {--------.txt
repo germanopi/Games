@@ -1,0 +1,1 @@
+Extraia sharedassets0.assets e  .rar da pasta Mundo Aberto Executavel\Mundo Aberto_Data
