@@ -1,0 +1,90 @@
+{
+    "id": "fd8e4447-3ddb-47e1-9154-ef0759e54f6d",
+    "modelName": "GMExtension",
+    "mvc": "1.2",
+    "name": "Retro_Platformer_Pack",
+    "IncludedResources": [
+        "Sprites\\spr_bullet1",
+        "Sprites\\spr_bullet2",
+        "Sprites\\spr_bullet3",
+        "Sprites\\spr_bullet4",
+        "Sprites\\spr_bullet5",
+        "Sprites\\spr_gamedude",
+        "Sprites\\spr_gamedude2",
+        "Sprites\\spr_gamedude3",
+        "Sprites\\spr_gamedudeGUN",
+        "Sprites\\spr_gamedudeGUN2",
+        "Sprites\\spr_gamedudeGUN3",
+        "Sprites\\spr_gamedudemini",
+        "Sprites\\spr_gamedudemini2",
+        "Sprites\\spr_gamedudedeath",
+        "Sprites\\spr_spikes",
+        "Sprites\\spr_door",
+        "Sprites\\spr_key",
+        "Sprites\\spr_buzzsaw",
+        "Sprites\\spr_spawner",
+        "Sprites\\spr_bigspikeystick",
+        "Sprites\\spr_mediumspikeystick",
+        "Sprites\\spr_smallspikeystick",
+        "Sprites\\spr_button",
+        "Sprites\\spr_switch",
+        "Sprites\\spr_heart",
+        "Sprites\\spr_pixelplayer",
+        "Sprites\\spr_pixelplayerGUN",
+        "Backgrounds\\til_gbtiles"
+    ],
+    "androidPermissions": [
+        
+    ],
+    "androidProps": false,
+    "androidactivityinject": "",
+    "androidclassname": "",
+    "androidinject": "",
+    "androidmanifestinject": "",
+    "androidsourcedir": "",
+    "author": "",
+    "classname": "",
+    "copyToTargets": -1,
+    "date": "2019-57-18 01:10:25",
+    "description": "",
+    "exportToGame": true,
+    "extensionName": "",
+    "files": [
+        
+    ],
+    "gradleinject": "",
+    "helpfile": "",
+    "installdir": "",
+    "iosProps": false,
+    "iosSystemFrameworkEntries": [
+        
+    ],
+    "iosThirdPartyFrameworkEntries": [
+        
+    ],
+    "iosdelegatename": null,
+    "iosplistinject": "",
+    "license": "Free to use, also for commercial games.",
+    "maccompilerflags": "",
+    "maclinkerflags": "",
+    "macsourcedir": "",
+    "options": null,
+    "optionsFile": "options.json",
+    "packageID": "com.crateboy.retroplatpack",
+    "productID": "ACBD3CFF4E539AD869A0E8E3B4B022DD",
+    "sourcedir": "",
+    "supportedTargets": -1,
+    "tvosProps": false,
+    "tvosSystemFrameworkEntries": [
+        
+    ],
+    "tvosThirdPartyFrameworkEntries": [
+        
+    ],
+    "tvosclassname": "",
+    "tvosdelegatename": null,
+    "tvosmaccompilerflags": "",
+    "tvosmaclinkerflags": "",
+    "tvosplistinject": "",
+    "version": "3.0.0"
+}
